@@ -24,75 +24,40 @@ My experience includes developing SaaS platforms, customer relationship manageme
 | Development Tools | Git, GitHub, VS Code |
 | Deployment & Integrations | Vercel, Render, Paystack, Cloudinary, Resend |
 
-## Featured Projects
+## Selected Engineering Projects
 
 ### Rennovex Invoice
+Multi-business SaaS platform for invoicing, billing, subscriptions, and financial document management.
 
-**SaaS Invoicing and Business Management Platform**
+**Stack:** Next.js, TypeScript, Supabase PostgreSQL, Paystack
 
-A multi-business invoicing application designed to help businesses manage invoices, estimates, receipts, and customer records.
-
-**Key Features**
-- Invoice and estimate generation
-- Subscription management and Paystack integration
-- Multiple document templates
-- Business administration and reporting
-- Authentication and workspace management
-
-**Technologies:** Next.js, TypeScript, React, Supabase, PostgreSQL
-
-[View Repository](https://github.com/Ksowusu15/Rennovex-Invoice)
+*Private repository. Project details available through my portfolio.*
 
 ### RebajaNow Sales CRM
+Internal sales and field operations platform supporting property management, assignments, customer follow-ups, and reporting.
 
-**Sales and Field Operations Management System**
+**Stack:** Next.js, TypeScript, Prisma, Neon PostgreSQL
 
-A CRM platform developed to support sales teams in managing leads, properties, assignments, and customer follow-ups.
-
-**Key Features**
-- Role-based access control
-- Lead and property management
-- Field officer assignments
-- Follow-up tracking and notifications
-- Administrative dashboards and reporting
-
-**Technologies:** Next.js, TypeScript, Prisma, PostgreSQL, Neon
-
-[View Repository](https://github.com/Ksowusu15/rebajanow-sales-crm)
+*Private commercial project.*
 
 ### Rennovex Technology
+Corporate website and business administration platform with content management, customer enquiries, and authenticated workspaces.
 
-**Corporate Website and Administration Platform**
+**Stack:** Next.js, React, TypeScript, PostgreSQL
 
-A full-stack web platform developed to manage company content, customer enquiries, consultations, and administrative operations.
-
-**Key Features**
-- Content management system
-- Role-based administration
-- Customer enquiry management
-- Consultation booking
-- Responsive design and SEO
-
-**Technologies:** Next.js, React, TypeScript, Prisma, PostgreSQL
-
-[View Repository](https://github.com/Ksowusu15/Rennovex-technology)
+[Visit Rennovex Technology](https://www.rennovex.com)
 
 ### Soadwa Motors
+Vehicle dealership application with inventory management, enquiries, test-drive requests, and administrative functionality.
 
-**Vehicle Dealership and Inventory Management System**
+**Stack:** Python, Flask, SQLAlchemy, PostgreSQL
 
-A web application developed to manage vehicle listings, customer enquiries, and dealership operations.
+*Private client project.*
 
-**Key Features**
-- Vehicle inventory management
-- Search and filtering
-- Customer enquiries and test-drive requests
-- Administrative dashboard
-- Authentication and database integration
+### Public Source Code
 
-**Technologies:** Python, Flask, SQLAlchemy, PostgreSQL, MySQL
-
-[View Repository](https://github.com/Ksowusu15/Soadwa-Company)
+- [Developer Portfolio](https://github.com/Ksowusu15/Kwabena-portfolio)
+- [E-Millenial Store](https://github.com/Ksowusu15/E-Millenial-Ecommence-Website)
 
 ---
 
